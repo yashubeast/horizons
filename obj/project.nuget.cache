@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "T0i6UL01WS8=",
+  "success": true,
+  "projectFilePath": "/home/yasu/.local/share/Terraria/tModLoader/ModSources/fag/fag.csproj",
+  "expectedPackageFiles": [
+    "/home/yasu/.nuget/packages/tmodloader.codeassist/0.1.5/tmodloader.codeassist.0.1.5.nupkg.sha512"
+  ],
+  "logs": []
+}
