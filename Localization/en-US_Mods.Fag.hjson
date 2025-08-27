@@ -1,13 +1,26 @@
 # This file will automatically update with entries for new content after a build and reload.
 
 Items: {
-	swee: {
-		DisplayName: swee
-		Tooltip:
-			'''
-			Template of an item
-			Replacing this tooltip is duty 
-			It's snowing on Mt.Fuji
-			'''
+	Chord: {
+		DisplayName: Chord
+		Tooltip: "[c/FF00FF:ok]"
+	}
+}
+
+NPCs: {
+	Chovey: {
+		DeathMessage: chovey got slimed
+		DisplayName: Chovey
+
+		TownNPCMood: {
+			Content: I am content.
+			NoHome: I hate not having a home.
+			FarFromHome: I am too far from home.
+			LoveSpace: I love having so much space.
+			DislikeCrowded: I dislike how crowded I am.
+			HateCrowded: I hate how crowded I am.
+			LikeNPC_Princess: I like {NPCName}.
+			Princess_LovesNPC: I like {NPCName}.
+		}
 	}
 }
