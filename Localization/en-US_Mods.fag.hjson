@@ -2,7 +2,7 @@
 
 Items: {
 	swee: {
-		DisplayName: "swee"
+		DisplayName: swee
 		Tooltip:
 			'''
 			Template of an item

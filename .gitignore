@@ -1,1 +1,17 @@
+# build output
+/obj/
+/bin/
+/*.dll
+/*.pdb
+
+# tmodloader
+*.tmod
+
+# rider / jetbrains
 .idea/
+/*.iml
+*.ipr
+*.iws
+
+# vsc
+.vscode/

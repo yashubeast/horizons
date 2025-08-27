@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("fag")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9db35b578e14b52981177c80621da5ad49c86e3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("fag")]
 [assembly: System.Reflection.AssemblyTitleAttribute("fag")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
